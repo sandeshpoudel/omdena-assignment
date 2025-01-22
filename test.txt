@@ -1,1 +1,7 @@
+version 2
+
 Hello this is test file just for assignment purpose.
+this is after the test main branch was seperated
+
+this file has been created with another version 2 branch which can be later merged 
+if everything works fine.
